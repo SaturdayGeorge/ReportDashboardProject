@@ -1,0 +1,9 @@
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\bin\Debug\netstandard2.0\ReportDashboard.Abstract.deps.json
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\bin\Debug\netstandard2.0\ReportDashboard.Abstract.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\bin\Debug\netstandard2.0\ReportDashboard.Abstract.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.AssemblyInfoInputs.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.AssemblyInfo.cs
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Abstract\obj\Debug\netstandard2.0\ReportDashboard.Abstract.csprojAssemblyReference.cache

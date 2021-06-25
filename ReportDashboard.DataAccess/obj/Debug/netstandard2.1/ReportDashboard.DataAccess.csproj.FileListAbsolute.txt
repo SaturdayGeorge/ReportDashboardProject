@@ -1,0 +1,12 @@
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\bin\Debug\netstandard2.1\ReportDashboard.DataAccess.deps.json
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\bin\Debug\netstandard2.1\ReportDashboard.DataAccess.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\bin\Debug\netstandard2.1\ReportDashboard.DataAccess.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.csprojAssemblyReference.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.AssemblyInfoInputs.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.AssemblyInfo.cs
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\bin\Debug\netstandard2.1\ReportDashboard.Abstract.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\bin\Debug\netstandard2.1\ReportDashboard.Abstract.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.csproj.CopyComplete
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.DataAccess\obj\Debug\netstandard2.1\ReportDashboard.DataAccess.csproj.CoreCompileInputs.cache

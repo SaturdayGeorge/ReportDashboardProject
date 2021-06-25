@@ -1,0 +1,45 @@
+﻿@using ReportDashboard.Abstract;
+@using NonFactors.Mvc.Grid;
+@using ReportDashboard.ViewModels;
+@model ReportViewModel
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Creation Date</th>
+            <th>Market Identifier</th>
+            <th>Market Layer Identifier</th>
+            <th>Number Of Months</th>
+            <th>Sample Date</th>
+            <th>Scenario Identifier</th>
+            <th>Created Date</th>
+            <th>User Identifier</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Scenarios)
+        {
+            <tr>
+                <td>@item.Forename</td>
+                <td>@item.Surname</td>
+                <td>@item.Name</td>
+                <td>@item.MarketID</td>
+                <td>@item.NetworkLayerID</td>
+                <td>@item.NumMonths</td>
+                <td>@item.SampleDate</td>
+                <td>@item.ScenarioID</td>
+                <td>@item.CreationDate</td>
+                <td>@item.UserID</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    var prevDisabled = Model.PageIndex <= 1 ? "disabled" : "";
+    var nextDisabled = Model.PageIndex * ReportViewModel.PageEntries >= Model.TotalPages ? "disabled" : "";
+}
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex - 1)" class="btn btn-default @prevDisabled">Previous</a>
+<a asp-action="Index" asp-route-pageNumber="@(Model.PageIndex + 1)" class="btn btn-default @nextDisabled">Next</a>

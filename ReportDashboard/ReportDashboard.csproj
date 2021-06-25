@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Data.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Data.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NonFactors.Grid.Core.Mvc6" Version="6.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReportDashboard.Abstract\ReportDashboard.Abstract.csproj" />
+    <ProjectReference Include="..\ReportDashboard.DataAccess\ReportDashboard.DataAccess.csproj" />
+    <ProjectReference Include="..\ReportDashboard.Services\ReportDashboard.Services.csproj" />
+  </ItemGroup>
+
+</Project>

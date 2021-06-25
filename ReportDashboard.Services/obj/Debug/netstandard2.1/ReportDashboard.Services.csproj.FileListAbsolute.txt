@@ -1,0 +1,12 @@
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\bin\Debug\netstandard2.1\ReportDashboard.Services.deps.json
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\bin\Debug\netstandard2.1\ReportDashboard.Services.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\bin\Debug\netstandard2.1\ReportDashboard.Services.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\bin\Debug\netstandard2.1\ReportDashboard.Abstract.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\bin\Debug\netstandard2.1\ReportDashboard.Abstract.pdb
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.csprojAssemblyReference.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.AssemblyInfoInputs.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.AssemblyInfo.cs
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.csproj.CoreCompileInputs.cache
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.csproj.CopyComplete
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.dll
+C:\Users\AFRICA\source\repos\ReportDashboard\ReportDashboard.Services\obj\Debug\netstandard2.1\ReportDashboard.Services.pdb
