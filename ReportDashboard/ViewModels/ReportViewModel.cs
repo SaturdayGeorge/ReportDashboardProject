@@ -1,4 +1,5 @@
 ﻿using ReportDashboard.Abstract;
+using System.Collections.Generic;
 
 namespace ReportDashboard.ViewModels
 {
@@ -7,6 +8,6 @@ namespace ReportDashboard.ViewModels
         public const int PageEntries = 7;
         public int PageIndex { get; set; } = 1;
         public int TotalPages { get; set; }
-        public Scenario[] Scenarios { get; set; }
+        public IEnumerable<Scenario> Scenarios { get; set; }
     }
 }
